@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+numpy
+opencv-python-headless
+pillow
+pydantic
+python-multipart
+scikit-image
+pytest
+httpx
+streamlit
+openpyxl
+SQLAlchemy>=2.0
+pandas
+requests
+psycopg2-binary
